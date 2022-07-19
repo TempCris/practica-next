@@ -9,6 +9,8 @@ se hace en el src/pages, se puede hacer una mejor observacion en el siguente dia
 
 - ✏️ Linter con [ESLint](https://eslint.org) (default react, react Core Web Vitals y Airbnb)
 - ✏️ Code Formatter with [Prettier](https://prettier.io)
+- ✏️ Datos de Ejemplo [JSon Placeholder ](https://jsonplaceholder.typicode.com/users) 
+- ✏️ Datos de Ejemplo [ReqRes](https://reqres.in/api/users) 
 - 🛠 Libreria de componentes de ui para react [Ant-Design](https://ant.design)
 - 🛠 [Redux](https://redux.js.org/) Nos permite consumir estados globalmente en cualquier componente de react optimizando renders, evitando bugs y comportamientos inesperados. Además de persistir nuestro estado de redux en _local storage_ para conservar inicios de sesion y otros datos que mejorarán el _UX_ del usuario.
 
